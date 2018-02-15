@@ -11,8 +11,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
-
 }
 
 *, *::before, *::after {
@@ -24,13 +22,13 @@ body {
 }
 
 .water {
-  font-family: "Rammetto One";
+  font-family: "Rammetto One", cursive;
   background-color: #e97065;
 }
 
 .star {
   background-color: #fbd25e;
-  font-family: "Gravitas One";
+  font-family: "Gravitas One", cursive;
 }
 
 .pers {
@@ -38,6 +36,6 @@ body {
   background-color: #e86033;
 }
 
-div p {
-  font-family: "Open Sans";
+article p {
+  font-family: "Open Sans", sans-serif;
 }
